@@ -1,0 +1,124 @@
+header {
+    background: #f28383;
+}
+
+.logo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 520px;
+    padding-right: 10px;
+    width: 15%;
+}
+
+nav {
+    background: #fecccc;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.botao1 {
+    border-radius: 5px;
+    letter-spacing: 6px;
+    color: white;
+    text-align: center;
+    background:#bb4848;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.botao1:hover {
+    background: #f47d7d;
+}
+
+.ti1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 4px;
+    font-size: 210%;
+}
+
+.secao1 {
+    text-align: center;
+    background: #a6a6a6;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.saibamais {
+    color: white;
+    background: black;
+    border-radius: 7px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+div {
+    text-align: center;
+}
+
+.secao2 {
+    text-align: center;
+    letter-spacing: 80px;
+    margin: 20px;
+}
+
+.secao3 {
+    text-align: center;
+    background:#eeeded;
+    color: black;
+    letter-spacing: 3px;
+    padding-top: 10px;
+    font-size: 260%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botao2 {
+    background: white;
+    border-radius: 20px;
+    border-color: white;
+    box-shadow: black 3px 3px 15px;
+}
+
+.tibtn {
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 180px;
+    font-size: 150%;
+
+}
+
+.datebtn {
+    padding-right: 300px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    background: #b86060;
+}
+
+.rodape {
+    text-align: center;
+    width: 15%;
+}
+
+.final {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
